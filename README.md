@@ -1,1 +1,1 @@
-[My personal profile](https://wajidali30.github.io/)
+[Link to my personal profile](https://wajidali30.github.io/)
